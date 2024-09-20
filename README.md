@@ -17,16 +17,23 @@ By analyzing this data, decision-makers can focus on areas requiring improvement
 
 ## Features
 - **Total Revenue Analysis**: Summarizes the current year's revenue and the comparison to previous year’s sales.
+- 
 ![image](https://github.com/user-attachments/assets/86f77dea-91e6-4fda-9d61-44eee40ec0e9)
 
 - **Revenue by Country**: Visual representation of sales performance across major regions including the USA, Australia, Japan, and more.
+- 
 ![image](https://github.com/user-attachments/assets/967853cc-6144-486e-bf11-b21458654c4a)
+
 - **Sales Growth Over Time**: Year-by-year analysis of revenue and percentage growth, allowing users to see trends and make informed business decisions.
+- 
 ![image](https://github.com/user-attachments/assets/8ddcf96b-1489-44bd-bbe6-116448f2ab5b)
 
 - **Category Performance**: Sales categorized by different product groups, such as Urban, Rural, Youth, and Mix, along with their respective revenues.
+- 
 ![image](https://github.com/user-attachments/assets/0ff9c6ab-2243-4da4-80f8-4758b52eae52)
+
 - **Total Units Sold**: Displays the total number of units sold across all categories.
+- 
 ![image](https://github.com/user-attachments/assets/0d79dab5-b13f-4eb1-b6cb-d9ca432a5e65)
 
 
